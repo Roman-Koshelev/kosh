@@ -1,0 +1,8 @@
+---
+BasedOnStyle: Google
+AccessModifierOffset: '-8'
+BreakBeforeBraces: Linux
+ColumnLimit: '100'
+IndentWidth: '8'
+
+...
